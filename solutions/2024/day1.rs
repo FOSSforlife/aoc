@@ -1,3 +1,4 @@
+// Translated from TypeScript:
 // https://chatgpt.com/c/691394c5-0eb0-8328-82d4-25ea0734ff27
 fn parse(contents: &str) -> Vec<(i32, i32)> {
     contents
